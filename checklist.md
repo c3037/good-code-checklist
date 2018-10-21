@@ -24,9 +24,10 @@
 21. Соблюдены принципы SOLID
 22. Соблюдён Закон Деметры
 23. Код покрыт unit-тестами:
-  * CodeCoverage > 95%, используется whitelist
-  * Используется подход AAA
-  * Не используется expects: any, вместо него once,never, exactly, at
+* CodeCoverage > 95%, используется whitelist
+* Используется подход AAA
+* Не используется expects: any, вместо него once,never, exactly, at
+24. Используется анемичная доменная модель
 
 ## Useful links
 1. [Object Calisthenics](https://williamdurand.fr/2013/06/03/object-calisthenics/)
