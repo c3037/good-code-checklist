@@ -33,3 +33,4 @@
 2. [GODS Code](https://habr.com/company/mailru/blog/414201/)
 3. [PHP Coding Style Guide](https://github.com/c3037/PHP-Coding-Style-Guide)
 4. [PSR-2](https://www.php-fig.org/psr/psr-2/)
+5. [Design Patterns](https://refactoring.guru/design-patterns/catalog)
