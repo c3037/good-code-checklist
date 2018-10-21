@@ -23,10 +23,10 @@
 20. Порядок следования свойств/методов public-protected-private
 21. Соблюдены принципы SOLID
 22. Соблюдён Закон деметры
-23. Код покрыт unit-тестами
-    23) CodeCoverage > 95%, используется whitelist
-    23) Используется подход AAA
-    23) Не используется expects: any, вместо него once,never, exactly, at
+23. Код покрыт unit-тестами:
+  * CodeCoverage > 95%, используется whitelist
+  * Используется подход AAA
+  * Не используется expects: any, вместо него once,never, exactly, at
 
 ## Useful links
 1. [Object Calisthenics](https://williamdurand.fr/2013/06/03/object-calisthenics/)
